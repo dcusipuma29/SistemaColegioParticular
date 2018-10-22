@@ -1,0 +1,2 @@
+# SistemaColegioParticular
+proyecto sistema
